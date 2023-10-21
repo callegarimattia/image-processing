@@ -52,10 +52,6 @@ python Image2Scan.py --input my_photos
 
 This will process all images in the `my_photos` folder and save the scanned documents in the same folder.
 
-## Contributing
-
-If you have suggestions for improvements or find any issues, please open an issue or submit a pull request on the [GitHub repository](https://github.com/your-username/opencv-document-scanner). Your contributions are highly appreciated!
-
 ## Acknowledgments
 
 - This utility is inspired by various open-source document scanning projects and the power of the OpenCV library.
